@@ -1,0 +1,17 @@
+﻿Build started 02/10/2012 17:00:27.
+     1>Project "C:\Users\computing\Downloads\Workshop 1\Workshop 1\Workshop 1.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Workshop 1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Workshop 1.vcxproj -> C:\Users\computing\Downloads\Workshop 1\Workshop 1\Debug\Workshop 1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Workshop 1.unsuccessfulbuild".
+         Touching "Debug\Workshop 1.lastbuildstate".
+     1>Done Building Project "C:\Users\computing\Downloads\Workshop 1\Workshop 1\Workshop 1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.01

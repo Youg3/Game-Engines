@@ -1,0 +1,21 @@
+﻿Build started 02/10/2012 17:00:27.
+     1>Project "C:\Users\computing\Downloads\Workshop 1\Workshop 1\Basic Program.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Basic Program.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.4_win\SDKs\Physics\include" /I"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.4_win\SDKs\Foundation\include" /I"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.4_win\SDKs\PhysXLoader\include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"C:\Users\computing\Downloads\Workshop 1\Workshop 1\Debug\Basic Program.pdb" /Gd /TP /analyze- /errorReport:prompt BasicProgramApp.cpp
+         BasicProgramApp.cpp
+     1>BasicProgramApp.cpp(196): warning C4305: 'initializing' : truncation from 'double' to 'NxReal'
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\computing\Downloads\Workshop 1\Workshop 1\Debug\Basic Program.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\NVIDIA Corporation\NVIDIA PhysX SDK\v2.8.4_win\SDKs\lib\Win32" PhysXLoader.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Basic Program.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\computing\Downloads\Workshop 1\Workshop 1\Debug\Basic Program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\computing\Downloads\Workshop 1\Workshop 1\Debug\Basic Program.lib" /MACHINE:X86 Debug\BasicProgramApp.obj
+         Basic Program.vcxproj -> C:\Users\computing\Downloads\Workshop 1\Workshop 1\Debug\Basic Program.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\computing\Downloads\Workshop 1\Workshop 1\Debug\Basic Program.exe;#1" /manifest "Debug\Basic Program.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Basic Program.unsuccessfulbuild".
+         Touching "Debug\Basic Program.lastbuildstate".
+     1>Done Building Project "C:\Users\computing\Downloads\Workshop 1\Workshop 1\Basic Program.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
